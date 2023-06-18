@@ -13,6 +13,24 @@ Collection of network protocol/standard
 #### Switch : connect the same network
 #### Router : connect network with another network 
 #### Firewall 🔥 🚧 : 
+## Network Devices
+#### Host : any devices send and reseive traffic such as iphone, computer, server, taptop, printers, could server , TV, refrigerator, lights, speakers
+Host 2 type : 1. client is a initiate request,  or 2. server is respond
+#### Network 
+Network is transports traffics between hosts, network can also contain another networks sometime called Sup network or Subnet. 
+
+#### IP address = 32 bits (32 of 1 and 0 ) devices to four octets and convert into desimal numbers : 0-255
+IP address is the identity of each host, every hosts to have Ip Address for communication with each other
+#### Repreater 
+Repreester is regenerater signals, allow communicater to a greater distance, 
+#### Bridge 
+Only have 2 ports, learn which host are be one each side. 
+#### Hub : Multi port repeaters.
+Hub will send all the packets to all the hosts. Everybody will receive all everyone else data. 
+#### Switch
+Multi port, learn which host on each port
+#### Router 
+
 ## OSI Model Layers ( Open System Interconnectioin )
 #### Function are divided in 7 layers 
 ###### Application : Closer to the usuer (www. https,Chrome, Brave )
