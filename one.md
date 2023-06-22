@@ -52,4 +52,9 @@ Communicate with a web server
 #### 💫 2. Subnet mask = Size of host's network 
 #### 💫 3. Default Gateway = Router's IP address 
 #### 💫 4. DNS server IPs = Transalte domain name to IPs 
+## ℹ️ How SSL/TLS protect your data? 
+### To protect the data in three way 
+#### Confidential : only Access client and server : Encryption 
+#### Integrity : can not be modified between client and server : Hashing, Singature 
+#### Authentication : Client and server are indeeded who they think they are ( you know exactly who you speaking with ) : PKI, Singature 
 
